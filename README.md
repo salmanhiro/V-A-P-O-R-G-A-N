@@ -1,7 +1,11 @@
-# V-A-P-O-R-G-A-N
+# ＶＡＰＯＲ　ＧＡＮ
 ＶＡＰＯＲ　ＧＡＮ　ＵＳＩＮＧ　ＮＥＵＲＡＬ　ＳＴＹＬＥ　ＴＲＡＮＳＦＥＲ
 
 ![style](style.jpg)
+
+# ＲＥＳＵＬＴ
+
+![result](result.png)
 # ＲＥＦＥＲＥＮＣＥＳ
 
 [Neural style transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
