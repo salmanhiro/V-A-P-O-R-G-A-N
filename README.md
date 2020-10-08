@@ -7,6 +7,9 @@
 # ＲＥＳＵＬＴ
 
 ![result](result.png)
+Source: CNN.com
+
+
 # ＲＥＦＥＲＥＮＣＥＳ
 
 [Neural style transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
